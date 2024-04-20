@@ -1,6 +1,6 @@
-# Databases and Interfaces Course Project
+# Databases and API 
 
-This repository contains a web application developed as part of the "Databases and Interfaces" course at Oulu University of Applied Sciences. The application is built using Node.js with Express.js framework and MySQL database, providing web interfaces to manage books and student records.
+This repository contains a web application developed as part of the "Databases and API" course at Oulu University of Applied Sciences. The application is built using Node.js with Express.js framework and MySQL database, providing web interfaces to manage books and student records.
 
 ## Technologies Used
 - Node.js
