@@ -62,8 +62,3 @@ The application exposes several endpoints for interacting with the database:
 - `DELETE /student/:id` - Deletes a student by ID.
 - `PUT /student/:id` - Updates an existing student. Requires data specific to your project needs.
 
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes or suggestions.
-
----
